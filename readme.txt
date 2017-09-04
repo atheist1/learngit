@@ -7,3 +7,5 @@ mygit
 my
 create a new branch
 branch master
+Creating a new branch is quick AND simple.
+
