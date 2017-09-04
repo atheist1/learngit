@@ -6,3 +6,4 @@ cache area
 mygit
 my
 create a new branch
+Creating a new branch is quick AND simple.
