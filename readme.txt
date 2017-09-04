@@ -4,4 +4,4 @@ the first change。
 Git is free software distributed under the GPL.
 cache area
 mygit
-mygiiiii
+my
